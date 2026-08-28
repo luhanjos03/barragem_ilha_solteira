@@ -1,1 +1,15 @@
+# === Libraries required for the analysis algorithm ===
+# Numerical, statistical, and graphical processing
+numpy
+pandas
+matplotlib
+sklearn
+statsmodels
 
+# Reload Libraries
+importlib
+
+# OPEN-METEO API
+openmeteo_requests
+requests_cache
+retry_requests
